@@ -1,12 +1,10 @@
-# Go Style
+# Go Style中文文档
 
-https://google.github.io/styleguide/go
-
-[Overview](https://google.github.io/styleguide/go/index) | [Guide](https://google.github.io/styleguide/go/guide) | [Decisions](https://google.github.io/styleguide/go/decisions) | [Best practices](https://google.github.io/styleguide/go/best-practices)
+本文是英文版Go Style的中文翻译，英文版本地址：https://google.github.io/styleguide/go。
 
 
 
-## About
+## 文档说明
 
 The Go Style Guide and accompanying documents codify the current best approaches for writing readable and idiomatic Go. Adherence to the Style Guide is not intended to be absolute, and these documents will never be exhaustive. Our intention is to minimize the guesswork of writing readable Go so that newcomers to the language can avoid common mistakes. The Style Guide also serves to unify the style guidance given by anyone reviewing Go code at Google.
 
